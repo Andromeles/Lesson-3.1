@@ -38,7 +38,7 @@
    ![Картинка](Screenshot_6.png)
 
 7. Terraform destroy
-   This site was built using [GitHub Pages](terraform.tfstate).
+   Ссылка на файл: [terraform.tfstate](terraform.tfstate).
    
 8. Потому что в коде строчка ```keep_locally = true``` подразумевает сохранение образа на локальной машине.
 ```
